@@ -15,3 +15,6 @@
 * [Learning_Go](certificates/Certificate_Of_Completion_Learning_Go.pdf)
 ##### Node.js Training: 
 ##### Project Management Training: 
+
+# Resume
+* [Atul Pratap Singh](resume/Atul_Pratap_Singh.docx)
