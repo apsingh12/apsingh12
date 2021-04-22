@@ -17,4 +17,5 @@
 ##### Project Management Training: 
 
 # Resume
-* [Atul Pratap Singh](resume/Atul_Pratap_Singh.docx)
+* [Atul Pratap Singh .docx](resume/Atul_Pratap_Singh.docx)
+* [Atul Pratap Singh .pdf](resume/Atul_Pratap_Singh.pdf)
