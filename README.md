@@ -11,12 +11,18 @@
 * [React.js_Essential_Training](certificates/Certificate_Of_Completion_React.js_Essential_Training.pdf)
 
 ##### GoLang Training:
-* [Go_Essential_Training](certificates/Certificate_Of_Completion_Go_Essential_Training.pdf)
-* [Learning_Go](certificates/Certificate_Of_Completion_Learning_Go.pdf)
-* [Resources](https://github.com/apsingh12/LearningGo)
+* [Go_Essential](certificates/Certificate_Of_Completion_Go_Essential_Training.pdf)
+* [Learning_Go](certificates/Certificate_Of_Completion_Learning_Go.pdf) 
+
 ##### Node.js Training: 
+
 ##### Project Management Training: 
 
 # Resume
 * [Atul Pratap Singh.docx](resume/Atul_Pratap_Singh.docx)
 * [Atul Pratap Singh.pdf](resume/Atul_Pratap_Singh.pdf)
+
+# References
+* [Learning Go](https://github.com/apsingh12/LearningGo)
+* [Golang Training](https://github.com/apsingh12/GolangTraining)
+* 
