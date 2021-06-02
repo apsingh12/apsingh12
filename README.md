@@ -13,6 +13,7 @@
 ##### GoLang Training:
 * [Go_Essential_Training](certificates/Certificate_Of_Completion_Go_Essential_Training.pdf)
 * [Learning_Go](certificates/Certificate_Of_Completion_Learning_Go.pdf)
+* [Resources](https://github.com/apsingh12/LearningGo)
 ##### Node.js Training: 
 ##### Project Management Training: 
 
