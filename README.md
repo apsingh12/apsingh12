@@ -25,4 +25,5 @@
 # References
 * [Learning Go](https://github.com/apsingh12/LearningGo)
 * [Golang Training](https://github.com/apsingh12/GolangTraining)
-* 
+* [DS/Algo Java](https://github.com/mission-peace/interview/tree/master/src/com/interview)
+* [Essential Node.js](https://github.com/apsingh12/essential-nodejs)
