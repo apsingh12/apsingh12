@@ -36,7 +36,7 @@ Java EE, Node.js, Golang, C/C++, Scripting, Spring Framework, JPA, Eclipse-Link,
 
 ##### Project Management Training: 
 * [Project Management, Leadership and Strategy - SABCON](certificates/Docker_Cert_Udemy.pdf)
-* [Improving_Your_Thinking](certificates/Improving_Your_Thinking.pdf)
+* [Improving Your Thinking](certificates/Improving_Your_Thinking.pdf)
 
 ##### Programming:
 * [React.js - Learning React](certificates/Certificate_Of_Completion_Learning_React.js.pdf)
