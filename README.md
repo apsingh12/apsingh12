@@ -1,5 +1,5 @@
 # Career Highlights
-Engineering leader with 18+ years in building Internet scale and Enterprise products with 9+ years in leading, mentoring, high-calibre teams.
+Engineering leader with **18+ years** in building Internet scale and Enterprise products with **10+ years** in leading, mentoring, high-calibre teams.
 
 ## Domain Exposure: 
 FinTech/Banking, IN UPI, SG NETS, Reward, UCaaS, IDM, IAM, SAML, ADFS, SSO, SMB, LDAP, Kerberos, System  Design, APIGW, Resiliency, Observability, Rate Limit, Notification Engine
@@ -39,6 +39,52 @@ Java EE, Node.js, Golang, C/C++, Scripting, Spring Framework, JPA, Eclipse-Link,
 * [React.js - Essential React.js](certificates/Certificate_Of_Completion_React.js_Essential_Training.pdf)
 * [Go - Essential Go](certificates/Certificate_Of_Completion_Go_Essential_Training.pdf)
 * [Go - Learning Go](certificates/Certificate_Of_Completion_Learning_Go.pdf) 
+
+
+# Work Experiences
+## DBS Bank, Singapore — Solution Architect
+NOVEMBER 2021 - PRESENT <br />
+* Lead Architect to define the future state Cloud Native platform architecture for Digital banking Platform. 
+* A key role in defining the Enterprise Architecture and Engineering guidelines and then driving the same through to the various platform level architectures and engineering practices
+* Driving the technological roadmap through understanding the needs of business requirements & alignment with broader T&O architectural direction.
+* Providing consultation to solution architects for new initiatives in defining or designing detailed solutioning, as well as enabling technologies based on requirements.
+
+## Liberty Wireless, Singapore — Technical Architect
+AUGUST 2018 - OCTOBER 2021 <br />
+* Design and develop the core platforms like Reward as Service, Notification Engine, Billing as a Service, eWallet, Policy and Sphere from scratch by following the Design Principles, Microservice architecture and standards to have future ready performance, capacity and scalability.
+* Designed the Activity, Transport, Priority and Template based generic information model for Notification engine which can allow provisioning transports, Templates. A generic design for dynamic routing of traffic based on provider rate.
+* Optimization - Flexible, elastic and effective cache loading to optimize the space and latency for concurrent calls.
+
+## Walmart Labs, Bangalore — Sr Tech Lead
+OCTOBER 2016 - JULY 2018 <br />
+* A highly scalable global order fulfillment system which is used at stores and other customer touch points, with the capability to prioritize, pick, stage, consolidate, dispense and audit customer orders. 
+* Designed the “Take Action” platform which allows widget-based personalized pages and can be configured at market/store/user level. Designed a caching layer framework for this.
+* Led the Holiday Readiness for Walmart US holiday sales 2017 from Bangalore.
+* Designed and implemented Centralized data purge and retention strategy for transactional data.
+
+## Polycom Technologies, Bangalore — Sr Staff Engineer
+APRIL 2013 - OCTOBER 2016 <br />
+* RP Web Suite is a first-of-its-kind video collaboration and conferencing software solution that enables businesses to collaborate with other businesses – or individuals – easily and securely, independent of application, system, or device.
+* A cloud enabled, HA, Secure, AD compatible, ReST based architecture using Java, Angular-JS and node.js primarily. Chrome extension for Non-NPAPI support i.e. NaCl based design.
+* SSO (based on Kerberos & SAML) solution for the product using spring-security. Integrating the RP Web Suite with Salesforce for a SAML based SSO authentication.
+
+## YAHOO SDC, Bangalore — Tech Lead
+SEPTEMBER 2011 - MARCH 2013 <br />
+* Multiple projects under Yahoo! Finance media property aimed to provide financial news, data and commentary including stock quotes, press releases, financial reports, and original content.
+* Onboarding KR, HK and TW finance sites on global Y! Finance code base. 
+* Y! Finance features like Schema Design, Autocomplete Indexing, Symbol Lookup, hyperdrive, chartapi, Yahoo Traffic Server.
+## ORACLE SDC, Bangalore — Sr Member Tech Staff
+OCTOBER 2010 - AUGUST 2010 <br />
+* The project Oracle ASO focussed on security modules which provides advanced security options as well as compatibility options for various types of authentication and authorization in various deployment use cases.
+* ZTK layer of ASO, which abstracts out the lower level authentication mechanisms.
+* Worked on Kerberos as one of the authentication mechanisms in the ASO layer.
+
+## Novell SDC, Bangalore — Sr Software Engineer
+FEBRUARY 2007 - OCTOBER 2010 <br />
+* The project DSFW aimed to provide the ability to access both Novell Linux and Microsoft file and print services while leveraging the existing user store (eDirectory or Active Directory) without multiple logins or user synchronization activities.
+* Selective Authentication, Trust Validation, Domain NetBIOS support, Multiple Trees in a forest, DNS configuration in ADCs, Application Partition, kpassword. Simulation tool for virtual logins
+* Various Kerberos products suits, eDirectory Password Policy, Various Trusts, Group Policies and SASL Mechanisms like GSSAPI, SPNEGO and EXTERNAL.
+
 
 
 # Resume
