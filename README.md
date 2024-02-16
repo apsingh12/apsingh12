@@ -1,26 +1,48 @@
 # Career Highlights
-* Seasoned Engineering leader with 18+ years in building Internet scale and Enterprise products with 9+ years in leading, mentoring, high-calibre teams.
-* Domain Exposure: eCommerce, Billing, Reward, Payment, Telco MVNO, UCaaS, Security and Identity Management, Directory Technology, Chrome Extension, NPAPI, Schema Design.
-* Protocols and related Products: SPNEGO & SAML based SSO, NaCl based Chrome Extension, LDAP, Kerberos, Oracle Database ASO EUS, Active Directory, eDirectory, Novell KDC, MIT KDC, SAMBA and Novell DNS, Yahoo Hyperdrive design.
-* Languages & Platform: Java EE, Node.js, Golang, C/C++, Scripting, Spring Framework, Spring-Security, Hazelcast distributed cache, Redis, Docker, Kubernetes, Eclipse-Link, Tomcat, MySQL, Mongo, Oracle ASO, Oracle Triton, SUSE Linux, OES, Wireshark, MMC, Valgrind.
-* Commitment and Teamwork: Recognitions like ‘Star Award’ (2 times), ‘Feather in the Cap’, ‘Work an Extra Mile’ and ‘Excellent Contribution’ in the team.
+Engineering leader with 18+ years in building Internet scale and Enterprise products with 9+ years in leading, mentoring, high-calibre teams.
+
+## Domain Exposure: 
+FinTech/Banking, IN UPI, SG NETS, Reward, UCaaS, IDM, IAM, SAML, ADFS, SSO, SMB, LDAP, Kerberos, System  Design, APIGW, Resiliency, Observability, Rate Limit, Notification Engine
+
+## Tech Stack & Platforms: 
+Java EE, Node.js, Golang, C/C++, Scripting, Spring Framework, JPA, Eclipse-Link,  Hazelcast/Redis cache, Docker, Kubernetes, OCP, PCF, Tomcat, MySQL, MongoDB, Kafka, RMQ, Oracle ASO, Active Directory, eDirectory, MIT KDC, SAMBA, Novell DNS, Linux, OES, Wireshark
+
+## Awards:
+* SPOT Award, Star Awards and Breakthrough Award from the Tech Architect
+* Feather in the Cap for working on SSO - Polycom
+* Work an Extra Mile for delivering the SAML integration on time - Polycom 
+* Excellent Contribution for leading the tech team Holiday Readiness -  Walmart
+
+## Research Work
+* Ultra-Low Bit Rate Speech Coder - Using the LPC10 based approach, I started having: VAD, VUV decision and Fo values in the form of a text file, later I replaced this with the analysis part. Then I focused on various forms of matrix quantization of LSP and implemented the optimized methods related to MELP from a list of IEEE papers.
+* Tools: Matlab-7.0, PRAAT
+
+## Patent Work
+* https://docs.google.com/fileview?id=0B577MBCqiegpNjBmN2E2ZmMtYTA3OS00ZWNkLWExYTgtOWM1ZWU4N2RhMzJm&hl=en&authkey=CJzh3akG
+
+## Education
+* IIIT, Bangalore — M Tech (JULY 2005 - JULY 2007) -- Information Technology (CGPA: 2.91/4)
+* MMMEC, Gorakhpur — B Tech (JULY 2000 - JULY 2004) -- Elec & Comm Engineering (Grade: 70%)
 
 # Certification
-##### React.js Training
-* [Learning_React](certificates/Certificate_Of_Completion_Learning_React.js.pdf)
-* [React.js_Essential_Training](certificates/Certificate_Of_Completion_React.js_Essential_Training.pdf)
+##### Enterprise Architecture:
+* [TOGAF 9.2](certificates/TOGAF_9_2_Certification.pdf)
 
-##### GoLang Training:
-* [Go_Essential](certificates/Certificate_Of_Completion_Go_Essential_Training.pdf)
-* [Learning_Go](certificates/Certificate_Of_Completion_Learning_Go.pdf) 
-
-##### Platforms Training: 
+##### Infrastructure & Platform: 
 * [Docker Training](certificates/Docker_Cert_Udemy.pdf)
 
 ##### Project Management Training: 
 
+##### Programming:
+* [Learning_React](certificates/Certificate_Of_Completion_Learning_React.js.pdf)
+* [React.js_Essential_Training](certificates/Certificate_Of_Completion_React.js_Essential_Training.pdf)
+* [Go_Essential](certificates/Certificate_Of_Completion_Go_Essential_Training.pdf)
+* [Learning_Go](certificates/Certificate_Of_Completion_Learning_Go.pdf) 
+
+
 # Resume
 * [Atul Pratap Singh.pdf](resume/Atul_Singh.pdf)
+
 
 # References
 * [Learning Go](https://github.com/apsingh12/LearningGo)
