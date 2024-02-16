@@ -14,7 +14,8 @@
 * [Go_Essential](certificates/Certificate_Of_Completion_Go_Essential_Training.pdf)
 * [Learning_Go](certificates/Certificate_Of_Completion_Learning_Go.pdf) 
 
-##### Node.js Training: 
+##### Platforms Training: 
+* [Docker Training](certificates/Docker_Cert_Udemy.pdf)
 
 ##### Project Management Training: 
 
