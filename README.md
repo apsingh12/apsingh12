@@ -14,11 +14,11 @@ Java EE, Node.js, Golang, C/C++, Scripting, Spring Framework, JPA, Eclipse-Link,
 * Excellent Contribution for leading the tech team Holiday Readiness -  Walmart
 
 ## Research Work
-* Ultra-Low Bit Rate Speech Coder - Using the LPC10 based approach, I started having: VAD, VUV decision and Fo values in the form of a text file, later I replaced this with the analysis part. Then I focused on various forms of matrix quantization of LSP and implemented the optimized methods related to MELP from a list of IEEE papers.
+* [Ultra-Low Bit Rate Speech Coder](https://docs.google.com/fileview?id=0B577MBCqiegpMzdhYTcyMmMtMzcwNS00MTU1LTk2YmItYWQ2NWViY2NhODg0&hl=en&authkey=CJ2i1ZcF) - Using the LPC10 based approach, I started having: VAD, VUV decision and Fo values in the form of a text file, later I replaced this with the analysis part. Then I focused on various forms of matrix quantization of LSP and implemented the optimized methods related to MELP from a list of IEEE papers.
 * Tools: Matlab-7.0, PRAAT
 
 ## Patent Work
-* https://docs.google.com/fileview?id=0B577MBCqiegpNjBmN2E2ZmMtYTA3OS00ZWNkLWExYTgtOWM1ZWU4N2RhMzJm&hl=en&authkey=CJzh3akG
+* [G.N.S. Prasanna, Ritesh Kumar, Mayank Raj,  Atul Pratap Singh, K.R Sarma, G.S.S Murthy et. al, "Broadband  HF/VHF/UHF Communication on Power Lines", PCT/IN2006/000223 , Jan, 2007](https://docs.google.com/fileview?id=0B577MBCqiegpNjBmN2E2ZmMtYTA3OS00ZWNkLWExYTgtOWM1ZWU4N2RhMzJm&hl=en&authkey=CJzh3akG)
 
 ## Education
 * IIIT, Bangalore — M Tech (JULY 2005 - JULY 2007) -- Information Technology (CGPA: 2.91/4)
