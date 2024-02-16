@@ -37,7 +37,7 @@ Java EE, Node.js, Golang, C/C++, Scripting, Spring Framework, JPA, Eclipse-Link,
 ##### Programming:
 * [React.js - Learning_React](certificates/Certificate_Of_Completion_Learning_React.js.pdf)
 * [React.js_- Essential_React.js](certificates/Certificate_Of_Completion_React.js_Essential_Training.pdf)
-* [Go_- Essential Go](certificates/Certificate_Of_Completion_Go_Essential_Training.pdf)
+* [Go - Essential Go](certificates/Certificate_Of_Completion_Go_Essential_Training.pdf)
 * [Go - Learning_Go](certificates/Certificate_Of_Completion_Learning_Go.pdf) 
 
 
