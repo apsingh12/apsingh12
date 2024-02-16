@@ -26,8 +26,8 @@ Java EE, Node.js, Golang, C/C++, Scripting, Spring Framework, JPA, Eclipse-Link,
 
 # Certification
 ##### Enterprise Architecture:
-* [TOGAF 9.2](certificates/TOGAF_9_2_Certification.pdf)
-* [TOGAF 9.2 UDEMY](certificates/TOGAF_9_2_Udemy.pdf)
+* [TOGAF 9.2 - Simplilearn](certificates/TOGAF_9_2_Certification.pdf)
+* [TOGAF 9.2 - UDEMY](certificates/TOGAF_9_2_Udemy.pdf)
 
 ##### Infrastructure & Platform: 
 * [Docker - Hands On DevOps](certificates/Docker_Cert_Udemy.pdf)
@@ -36,7 +36,7 @@ Java EE, Node.js, Golang, C/C++, Scripting, Spring Framework, JPA, Eclipse-Link,
 
 ##### Programming:
 * [React.js - Learning React](certificates/Certificate_Of_Completion_Learning_React.js.pdf)
-* [React.js_- Essential React.js](certificates/Certificate_Of_Completion_React.js_Essential_Training.pdf)
+* [React.js - Essential React.js](certificates/Certificate_Of_Completion_React.js_Essential_Training.pdf)
 * [Go - Essential Go](certificates/Certificate_Of_Completion_Go_Essential_Training.pdf)
 * [Go - Learning Go](certificates/Certificate_Of_Completion_Learning_Go.pdf) 
 
