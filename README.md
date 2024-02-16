@@ -35,10 +35,10 @@ Java EE, Node.js, Golang, C/C++, Scripting, Spring Framework, JPA, Eclipse-Link,
 ##### Project Management Training: 
 
 ##### Programming:
-* [Learning_React](certificates/Certificate_Of_Completion_Learning_React.js.pdf)
-* [React.js_Essential_Training](certificates/Certificate_Of_Completion_React.js_Essential_Training.pdf)
-* [Go_Essential](certificates/Certificate_Of_Completion_Go_Essential_Training.pdf)
-* [Learning_Go](certificates/Certificate_Of_Completion_Learning_Go.pdf) 
+* [React.js - Learning_React](certificates/Certificate_Of_Completion_Learning_React.js.pdf)
+* [React.js_- Essential_React.js](certificates/Certificate_Of_Completion_React.js_Essential_Training.pdf)
+* [Go_- Essential Go](certificates/Certificate_Of_Completion_Go_Essential_Training.pdf)
+* [Go - Learning_Go](certificates/Certificate_Of_Completion_Learning_Go.pdf) 
 
 
 # Resume
