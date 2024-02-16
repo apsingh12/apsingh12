@@ -31,8 +31,12 @@ Java EE, Node.js, Golang, C/C++, Scripting, Spring Framework, JPA, Eclipse-Link,
 
 ##### Infrastructure & Platform: 
 * [Docker - Hands On DevOps](certificates/Docker_Cert_Udemy.pdf)
+* [AWS Certified - Solutions Architect Associate SAAC02](certificates/AWS_Certified_Solutions_Architect_Associate_SAAC02.pdf)
+* [Mongo - MongoDB](certificates/MongoDB.pdf)
 
 ##### Project Management Training: 
+* [Project Management, Leadership and Strategy - SABCON](certificates/Docker_Cert_Udemy.pdf)
+* [Improving_Your_Thinking](certificates/Improving_Your_Thinking.pdf)
 
 ##### Programming:
 * [React.js - Learning React](certificates/Certificate_Of_Completion_Learning_React.js.pdf)
