@@ -1,102 +1,194 @@
-# Career Highlights
-Engineering leader with **18+ years** in building Internet scale and Enterprise products with **10+ years** in leading, mentoring, high-calibre teams.
+<div align="center">
 
-## Domain Exposure: 
-FinTech/Banking, IN UPI, SG NETS, Reward, UCaaS, IDM, IAM, SAML, ADFS, SSO, SMB, LDAP, Kerberos, System  Design, APIGW, Resiliency, Observability, Rate Limit, Notification Engine
+# Atul Pratap Singh
 
-## Tech Stack & Platforms: 
-Java EE, Node.js, Golang, C/C++, Scripting, Spring Framework, JPA, Eclipse-Link,  Hazelcast/Redis cache, Docker, Kubernetes, OCP, PCF, Tomcat, MySQL, MongoDB, Kafka, RMQ, Oracle ASO, Active Directory, eDirectory, MIT KDC, SAMBA, Novell DNS, Linux, OES, Wireshark
+### Technology Executive · Enterprise Architect · Engineering Leader · AI-Driven
 
-## Awards:
-* SPOT Award, Star Awards and Breakthrough Award from the Tech Architect
-* Feather in the Cap for working on SSO - Polycom
-* Work an Extra Mile for delivering the SAML integration on time - Polycom 
-* Excellent Contribution for leading the tech team Holiday Readiness -  Walmart
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-apsingh12-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apsingh12/)
+[![Email](https://img.shields.io/badge/Email-atul.singh12%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:atul.singh12@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/apsingh12?style=flat-square&label=Follow&logo=github)](https://github.com/apsingh12)
 
-## Research Work
-* [Ultra-Low Bit Rate Speech Coder](https://docs.google.com/fileview?id=0B577MBCqiegpMzdhYTcyMmMtMzcwNS00MTU1LTk2YmItYWQ2NWViY2NhODg0&hl=en&authkey=CJ2i1ZcF) - Using the LPC10 based approach, I started having: VAD, VUV decision and Fo values in the form of a text file, later I replaced this with the analysis part. Then I focused on various forms of matrix quantization of LSP and implemented the optimized methods related to MELP from a list of IEEE papers.
-* Tools: Matlab-7.0, PRAAT
+> **18+ years** building Internet-scale and Enterprise products &nbsp;·&nbsp; **10+ years** leading and mentoring high-calibre engineering teams
 
-## Patent Work
-* [G.N.S. Prasanna, Ritesh Kumar, Mayank Raj,  Atul Pratap Singh, K.R Sarma, G.S.S Murthy et. al, "Broadband  HF/VHF/UHF Communication on Power Lines", PCT/IN2006/000223 , Jan, 2007](https://docs.google.com/fileview?id=0B577MBCqiegpNjBmN2E2ZmMtYTA3OS00ZWNkLWExYTgtOWM1ZWU4N2RhMzJm&hl=en&authkey=CJzh3akG)
+</div>
+
+---
+
+## About Me
+
+I'm a Solution Architect at **DBS Bank, Singapore**, defining cloud-native platform architectures for digital banking at internet scale. My work sits at the intersection of enterprise architecture, distributed systems, and AI/ML adoption — translating business needs into future-ready, resilient technology platforms.
+
+I've built and led platforms across **FinTech, UCaaS, eCommerce, Identity Management**, and **Telecom** — from payment rails (UPI, NETS) and notification engines to SSO/IAM systems and global-scale order fulfillment.
+
+---
+
+## What I'm Working On
+
+- **AI/ML Adoption** — Driving AI strategy and GenAI platform initiatives at DBS Bank
+- **Cloud-Native Architecture** — Defining future-state platform blueprints for digital banking
+- **Enterprise Architecture** — Setting engineering guidelines aligned with T&O direction
+- **Mentoring & Consulting** — Coaching solution architects across new initiatives and design reviews
+
+---
+
+## Experience
+
+**DBS Bank, Singapore — Solution Architect** *(Nov 2021 – Present)*
+Lead architect for cloud-native digital banking platform. Defining enterprise architecture and engineering guidelines, driving the technology roadmap, and consulting solution architects on new initiatives across the bank's T&O function.
+
+**Liberty Wireless, Singapore — Technical Architect** *(Aug 2018 – Oct 2021)*
+Designed core platforms from scratch — Reward as a Service, Notification Engine, Billing as a Service, eWallet, Policy, and Sphere — following microservice principles for performance, capacity, and scalability. Built an activity/transport/priority/template-based notification model with dynamic traffic routing and elastic cache optimization.
+
+**Walmart Labs, Bangalore — Sr Tech Lead** *(Oct 2016 – Jul 2018)*
+Built a highly scalable global order fulfillment system used across stores and customer touchpoints. Designed the "Take Action" platform for widget-based personalized pages configurable at market/store/user level. Led Holiday Readiness for Walmart US 2017 from Bangalore.
+
+**Polycom Technologies, Bangalore — Sr Staff Engineer** *(Apr 2013 – Oct 2016)*
+Built RP Web Suite — a cloud-enabled, HA, secure, AD-compatible video collaboration platform using Java, AngularJS, and Node.js. Delivered SSO (Kerberos & SAML) integration including Salesforce enterprise SSO.
+
+**Yahoo SDC, Bangalore — Tech Lead** *(Sep 2011 – Mar 2013)*
+Led multiple projects under Yahoo Finance — stock quotes, financial news, symbol lookup, autocomplete indexing, and chart APIs. Onboarded KR, HK, and TW finance sites onto the global Y! Finance codebase.
+
+**Oracle SDC, Bangalore — Sr Member Technical Staff** *(Oct 2010 – Aug 2011)*
+Worked on Oracle ASO security modules — Kerberos authentication within the ZTK abstraction layer, covering advanced security and compatibility across deployment scenarios.
+
+**Novell SDC, Bangalore — Sr Software Engineer** *(Feb 2007 – Oct 2010)*
+Delivered DSFW — enabling unified access to Novell Linux and Microsoft services via eDirectory/Active Directory. Shipped Kerberos, SAML, and GSSAPI/SPNEGO/EXTERNAL SASL mechanisms with Group Policy integrations.
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Frameworks & Middleware**
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Hazelcast](https://img.shields.io/badge/Hazelcast-FF6600?style=flat-square&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**Infrastructure & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## Domain Expertise
+
+| Domain | Key Areas |
+|--------|-----------|
+| **FinTech / Banking** | UPI, SG NETS, eWallet, Billing as a Service, Digital Banking Platform |
+| **Identity & Access** | SAML, ADFS, SSO, LDAP, Kerberos, GSSAPI, SPNEGO, eDirectory, Active Directory |
+| **Platform Engineering** | API Gateway, Microservices, Resiliency, Observability, Rate Limiting, Notification Engine |
+| **Cloud & Architecture** | Cloud-Native, Enterprise Architecture (TOGAF), System Design, OCP / PCF / K8s |
+| **AI / ML** | AI strategy, GenAI adoption, ML-driven platform initiatives |
+
+---
+
+## Certifications
+
+**Enterprise Architecture**
+- TOGAF 9.2 — Simplilearn · [PDF](certificates/TOGAF_9_2_Certification.pdf)
+- TOGAF 9.2 — Udemy · [PDF](certificates/TOGAF_9_2_Udemy.pdf)
+
+**Cloud & Infrastructure**
+- AWS Certified Solutions Architect — Associate (SAA-C02) · [PDF](certificates/AWS_Certified_Solutions_Architect_Associate_SAAC02.pdf)
+- Docker — Hands On DevOps · [PDF](certificates/Docker_Cert_Udemy.pdf)
+- MongoDB Certified · [PDF](certificates/MongoDB.pdf)
+
+**Project Management & Leadership**
+- Project Management, Leadership and Strategy — SABCON
+- Problem-Solving Techniques — LinkedIn (2025)
+- Critical Thinking — LinkedIn (2025)
+- Improving Your Thinking · [PDF](certificates/Improving_Your_Thinking.pdf)
+
+**Programming**
+- React.js Essential Training & Learning React — LinkedIn · [PDF](certificates/Certificate_Of_Completion_React.js_Essential_Training.pdf)
+- Go Essential Training & Learning Go — LinkedIn · [PDF](certificates/Certificate_Of_Completion_Go_Essential_Training.pdf)
+
+---
+
+## Research & Patents
+
+**Patent**
+> *G.N.S. Prasanna, Ritesh Kumar, Mayank Raj, Atul Pratap Singh, K.R Sarma, G.S.S Murthy et al.*
+> [**"Broadband HF/VHF/UHF Communication on Power Lines"**](https://docs.google.com/fileview?id=0B577MBCqiegpNjBmN2E2ZmMtYTA3OS00ZWNkLWExYTgtOWM1ZWU4N2RhMzJm&hl=en&authkey=CJzh3akG) — PCT/IN2006/000223, Jan 2007
+
+**Research**
+> [**Ultra-Low Bit Rate Speech Coder**](https://docs.google.com/fileview?id=0B577MBCqiegpMzdhYTcyMmMtMzcwNS00MTU1LTk2YmItYWQ2NWViY2NhODg0&hl=en&authkey=CJ2i1ZcF) — IIIT Bangalore (2005–2007)
+> LPC10-based approach with VAD, VUV decision, Fo values, matrix quantization of LSP, and MELP optimization from IEEE papers. Tools: MATLAB 7.0, PRAAT.
+
+---
+
+## Awards & Recognition
+
+| Award | Organisation |
+|-------|-------------|
+| SPOT Award | Tech Architect |
+| Star Award & Breakthrough Award | Tech Architect |
+| Feather in the Cap — SSO delivery | Polycom |
+| Work an Extra Mile — SAML integration on time | Polycom |
+| Excellent Contribution — Holiday Readiness 2017 | Walmart |
+
+---
 
 ## Education
-* IIIT, Bangalore — M Tech (JULY 2005 - JULY 2007) -- Information Technology (CGPA: 2.91/4)
-* MMMEC, Gorakhpur — B Tech (JULY 2000 - JULY 2004) -- Elec & Comm Engineering (Grade: 70%)
 
-# Certification
-##### Enterprise Architecture:
-* [TOGAF 9.2 - Simplilearn](certificates/TOGAF_9_2_Certification.pdf)
-* [TOGAF 9.2 - UDEMY](certificates/TOGAF_9_2_Udemy.pdf)
+| Degree | Institution | Period | Grade |
+|--------|------------|--------|-------|
+| M.Tech — Information Technology | IIIT Bangalore | 2005 – 2007 | CGPA 2.91/4 |
+| B.Tech — Electronics & Communication | MMMEC Gorakhpur | 2000 – 2004 | 70% |
 
-##### Infrastructure & Platform: 
-* [Docker - Hands On DevOps](certificates/Docker_Cert_Udemy.pdf)
-* [AWS Certified - Solutions Architect Associate SAAC02](certificates/AWS_Certified_Solutions_Architect_Associate_SAAC02.pdf)
-* [Mongo - MongoDB](certificates/MongoDB.pdf)
+---
 
-##### Project Management Training: 
-* [Project Management, Leadership and Strategy - SABCON](certificates/Docker_Cert_Udemy.pdf)
-* [Improving Your Thinking](certificates/Improving_Your_Thinking.pdf)
+## GitHub Stats
 
-##### Programming:
-* [React.js - Learning React](certificates/Certificate_Of_Completion_Learning_React.js.pdf)
-* [React.js - Essential React.js](certificates/Certificate_Of_Completion_React.js_Essential_Training.pdf)
-* [Go - Essential Go](certificates/Certificate_Of_Completion_Go_Essential_Training.pdf)
-* [Go - Learning Go](certificates/Certificate_Of_Completion_Learning_Go.pdf) 
+<div align="center">
 
+![Atul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=apsingh12&show_icons=true&theme=dark&hide_border=true&count_private=true)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apsingh12&layout=compact&theme=dark&hide_border=true)
 
-# Work Experiences
-## DBS Bank, Singapore — Solution Architect
-NOVEMBER 2021 - PRESENT <br />
-* Lead Architect to define the future state Cloud Native platform architecture for Digital banking Platform. 
-* A key role in defining the Enterprise Architecture and Engineering guidelines and then driving the same through to the various platform level architectures and engineering practices
-* Driving the technological roadmap through understanding the needs of business requirements & alignment with broader T&O architectural direction.
-* Providing consultation to solution architects for new initiatives in defining or designing detailed solutioning, as well as enabling technologies based on requirements.
+</div>
 
-## Liberty Wireless, Singapore — Technical Architect
-AUGUST 2018 - OCTOBER 2021 <br />
-* Design and develop the core platforms like Reward as Service, Notification Engine, Billing as a Service, eWallet, Policy and Sphere from scratch by following the Design Principles, Microservice architecture and standards to have future ready performance, capacity and scalability.
-* Designed the Activity, Transport, Priority and Template based generic information model for Notification engine which can allow provisioning transports, Templates. A generic design for dynamic routing of traffic based on provider rate.
-* Optimization - Flexible, elastic and effective cache loading to optimize the space and latency for concurrent calls.
+---
 
-## Walmart Labs, Bangalore — Sr Tech Lead
-OCTOBER 2016 - JULY 2018 <br />
-* A highly scalable global order fulfillment system which is used at stores and other customer touch points, with the capability to prioritize, pick, stage, consolidate, dispense and audit customer orders. 
-* Designed the “Take Action” platform which allows widget-based personalized pages and can be configured at market/store/user level. Designed a caching layer framework for this.
-* Led the Holiday Readiness for Walmart US holiday sales 2017 from Bangalore.
-* Designed and implemented Centralized data purge and retention strategy for transactional data.
+## Learning & Reference Repos
 
-## Polycom Technologies, Bangalore — Sr Staff Engineer
-APRIL 2013 - OCTOBER 2016 <br />
-* RP Web Suite is a first-of-its-kind video collaboration and conferencing software solution that enables businesses to collaborate with other businesses – or individuals – easily and securely, independent of application, system, or device.
-* A cloud enabled, HA, Secure, AD compatible, ReST based architecture using Java, Angular-JS and node.js primarily. Chrome extension for Non-NPAPI support i.e. NaCl based design.
-* SSO (based on Kerberos & SAML) solution for the product using spring-security. Integrating the RP Web Suite with Salesforce for a SAML based SSO authentication.
+- [Learning Go](https://github.com/apsingh12/LearningGo) — Go language fundamentals
+- [Golang Training](https://github.com/apsingh12/GolangTraining) — Advanced Go exercises
+- [Essential Node.js](https://github.com/apsingh12/essential-nodejs) — Node.js deep-dive
+- [DS/Algo — Java](https://github.com/mission-peace/interview/tree/master/src/com/interview) — Data structures & algorithms
 
-## YAHOO SDC, Bangalore — Tech Lead
-SEPTEMBER 2011 - MARCH 2013 <br />
-* Multiple projects under Yahoo! Finance media property aimed to provide financial news, data and commentary including stock quotes, press releases, financial reports, and original content.
-* Onboarding KR, HK and TW finance sites on global Y! Finance code base. 
-* Y! Finance features like Schema Design, Autocomplete Indexing, Symbol Lookup, hyperdrive, chartapi, Yahoo Traffic Server.
-## ORACLE SDC, Bangalore — Sr Member Tech Staff
-OCTOBER 2010 - AUGUST 2010 <br />
-* The project Oracle ASO focussed on security modules which provides advanced security options as well as compatibility options for various types of authentication and authorization in various deployment use cases.
-* ZTK layer of ASO, which abstracts out the lower level authentication mechanisms.
-* Worked on Kerberos as one of the authentication mechanisms in the ASO layer.
+---
 
-## Novell SDC, Bangalore — Sr Software Engineer
-FEBRUARY 2007 - OCTOBER 2010 <br />
-* The project DSFW aimed to provide the ability to access both Novell Linux and Microsoft file and print services while leveraging the existing user store (eDirectory or Active Directory) without multiple logins or user synchronization activities.
-* Selective Authentication, Trust Validation, Domain NetBIOS support, Multiple Trees in a forest, DNS configuration in ADCs, Application Partition, kpassword. Simulation tool for virtual logins
-* Various Kerberos products suits, eDirectory Password Policy, Various Trusts, Group Policies and SASL Mechanisms like GSSAPI, SPNEGO and EXTERNAL.
+## Resume
 
+[Download Resume (PDF)](resume/Atul_Singh.pdf)
 
+---
 
-# Resume
-* [Atul Pratap Singh.pdf](resume/Atul_Singh.pdf)
+<div align="center">
 
+*Open to conversations on enterprise architecture, FinTech platforms, AI/ML adoption, and engineering leadership.*
 
-# References
-* [Learning Go](https://github.com/apsingh12/LearningGo)
-* [Golang Training](https://github.com/apsingh12/GolangTraining)
-* [DS/Algo Java](https://github.com/mission-peace/interview/tree/master/src/com/interview)
-* [Essential Node.js](https://github.com/apsingh12/essential-nodejs)
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/apsingh12/) &nbsp;·&nbsp; [Email](mailto:atul.singh12@gmail.com)
+
+</div>
