@@ -5,6 +5,7 @@
 ### Technology Executive · Enterprise Architect · Engineering Leader · AI-Driven
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-apsingh12-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apsingh12/)
+[![X](https://img.shields.io/badge/X-apsingh12-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/apsingh12)
 [![Email](https://img.shields.io/badge/Email-atul.singh12%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:atul.singh12@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/apsingh12?style=flat-square&label=Follow&logo=github)](https://github.com/apsingh12)
 
@@ -189,6 +190,6 @@ Delivered DSFW — enabling unified access to Novell Linux and Microsoft service
 
 *Open to conversations on enterprise architecture, FinTech platforms, AI/ML adoption, and engineering leadership.*
 
-**Let's connect:** [LinkedIn](https://www.linkedin.com/in/apsingh12/) &nbsp;·&nbsp; [Email](mailto:atul.singh12@gmail.com)
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/apsingh12/) &nbsp;·&nbsp; [X / Twitter](https://x.com/apsingh12) &nbsp;·&nbsp; [Email](mailto:atul.singh12@gmail.com)
 
 </div>
