@@ -2,14 +2,14 @@
 
 # Atul Pratap Singh
 
-### Technology Executive · Enterprise Architect · Engineering Leader · AI-Driven
+### Enterprise Architecture & Engineering Leader | Digital Banking & FinTech | Cloud-Native Platforms | AI-Driven Transformation @DBS | Ex WalmartLabs • Yahoo • Oracle
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-apsingh12-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apsingh12/)
 [![X](https://img.shields.io/badge/X-apsingh12-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/apsingh12)
 [![Email](https://img.shields.io/badge/Email-atul.singh12%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:atul.singh12@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/apsingh12?style=flat-square&label=Follow&logo=github)](https://github.com/apsingh12)
 
-> **18+ years** building Internet-scale and Enterprise products &nbsp;·&nbsp; **10+ years** leading and mentoring high-calibre engineering teams
+> **20+ years** building Internet-scale and Enterprise products &nbsp;·&nbsp; **10+ years** leading and mentoring high-calibre engineering teams
 
 </div>
 
