@@ -2,14 +2,15 @@
 
 # Atul Pratap Singh
 
-### Enterprise Architecture & Engineering Leader | Digital Banking & FinTech | Cloud-Native Platforms | AI-Driven Transformation @DBS | Ex WalmartLabs • Yahoo • Oracle
+### Technology Executive · Enterprise Architect · Engineering Leader
+### (AI-Driven Transformation @DBS | Ex WalmartLabs • Yahoo • Oracle)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-apsingh12-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apsingh12/)
 [![X](https://img.shields.io/badge/X-apsingh12-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/apsingh12)
 [![Email](https://img.shields.io/badge/Email-atul.singh12%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:atul.singh12@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/apsingh12?style=flat-square&label=Follow&logo=github)](https://github.com/apsingh12)
 
-> **20+ years** building Internet-scale and Enterprise products &nbsp;·&nbsp; **10+ years** leading and mentoring high-calibre engineering teams
+> **20+ years** of building Internet-scale Platforms and Enterprise products &nbsp;·&nbsp; **12+ years** of leading and mentoring high-calibre engineering teams
 
 </div>
 
@@ -17,9 +18,23 @@
 
 ## About Me
 
-I'm a Solution Architect at **DBS Bank, Singapore**, defining cloud-native platform architectures for digital banking at internet scale. My work sits at the intersection of enterprise architecture, distributed systems, and AI/ML adoption — translating business needs into future-ready, resilient technology platforms.
+I am a technology leader with **20+ years** of experience building and scaling internet-scale products, **enterprise platforms**, and mission-critical systems across **Banking**, **FinTech**, **E-commerce**, **Telecom**, **Security**, and **Enterprise Software** domains.
 
-I've built and led platforms across **FinTech, UCaaS, eCommerce, Identity Management**, and **Telecom** — from payment rails (UPI, NETS) and notification engines to SSO/IAM systems and global-scale order fulfillment.
+I have led the design, architecture, and delivery of large-scale digital platforms for global organizations including **DBS Bank Singapore**, **Circles.Life**, **WalmartLabs**, **Yahoo SDC**, **Oracle SDC**, **Novell Systems**, and **Microsoft Research**. My expertise spans **Enterprise Architecture**, **Cloud-Native Platforms**, **Digital Transformation**, **Payments**, **Identity & Access Management**, **Distributed Systems**, **Platform Engineering**, and **Engineering Leadership**.
+
+Over the last decade, my focus has evolved from hands-on software development to leading high-caliber engineering organizations, defining enterprise technology strategy, modernizing platforms, establishing architecture governance, and mentoring architects and engineering leaders. I am passionate about translating business vision into scalable technology solutions while fostering a culture of engineering excellence, innovation, and continuous learning.
+At **DBS Bank Singapore**, I lead **architecture initiatives** that shape the future-state cloud-native digital banking platform, partnering with business, engineering, and technology leadership teams to drive modernization and strategic transformation. Previously, I built and scaled platform services covering **payments**, **rewards**, **billing**, **notifications**, **Order fulfillment**, **security**, and customer experience for high-growth and global enterprises.
+
+My professional interests include:
+- Enterprise Architecture & Technology Strategy
+- Cloud-Native Platforms & Platform Engineering
+- Digital Banking & FinTech Innovation
+- AI-Driven Business Transformation
+- Engineering Leadership & Talent Development
+- Distributed Systems & Large-Scale Platform Design
+- Technology Modernization & Organizational Transformation
+
+I believe great technology is not just about building systems—it is about building platforms, enabling people, and creating sustainable business value through innovation and execution excellence.
 
 ---
 
